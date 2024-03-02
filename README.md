@@ -10,12 +10,17 @@
   <a href="https://github.com/Marco-Aurelio-Martins">
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-Aurelio-Martins&layout=compact&langs_count=16&theme=dark">
 </div>
+    
+
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  [![Python][Python.com]][Python-url]
+  [![HTML5][HTML5.com]][HTML5-url]
+  [![CSS3][CSS3.com]][CSS3-url]
+  [![Javascript][Javascript.com]][Javascript-url]
+  [![SQLite][SQLite.com]][SQLite-url]
+      
 </div>
 
 ##
@@ -25,3 +30,20 @@
   <a href = "mailto:marcomartins051@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marco-aur%C3%A9lio-ribeiro-martins-b9b12b281/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+
+
+[HTML5.com]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML5-url]: https://html.com
+[CSS3.com]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS3-url]: https://www.w3.org/TR/CSS/#css
+[Javascript.com]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[Javascript-url]: https://ecma-international.org/publications-and-standards/standards/ecma-262
+[Python.com]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+[Python-url]: https://www.python.org
+[SQLite.com]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
+[SQLite-url]: https://www.sqlite.org/index.html
+
+
+
