@@ -5,7 +5,6 @@
 - Colaborador do projeto ISNA
 - Frameworks: Django | Flask
 
-  ##
 
 <div>
   <a href="https://github.com/Marco-Aurelio-Martins">
