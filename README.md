@@ -1,7 +1,7 @@
 ## Olá, meu nome é Marco Aurélio
 
 - Estudando no periodo da manhã no Colégio Policial Militar - Blumenau/SC
-- Colaborador do projeto <a href="https://github.com/incrisvel/parkin">ParkIn
+- Colaborador do projeto [ParkIn](https://github.com/incrisvel/parkin)
 - Colaborador do projeto ISNA
 
 <div>
