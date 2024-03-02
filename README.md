@@ -1,6 +1,8 @@
 ## Olá, meu nome é Marco Aurélio
 
 - Estudando no periodo da manhã no Colégio Policial Militar - Blumenau/SC
+- Colaborador do projeto <a href="https://github.com/incrisvel/parkin">ParkIn
+- Colaborador do projeto ISNA
 
 <div>
   <a href="https://github.com/Marco-Aurelio-Martins">
@@ -17,6 +19,7 @@
 ##
 
 <div> 
+  <a href="https://instagram.com/marco.codev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcomartins051@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marco-aur%C3%A9lio-ribeiro-martins-b9b12b281/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
