@@ -1,6 +1,6 @@
 ## Olá, meu nome é Marco Aurélio
 
-- Estudando no periodo da manhã no Colégio Policial Militar - Blumenau/SC
+- Estudando no período da matutino no Colégio Policial Militar - Blumenau/SC
 - Colaborador do projeto [ParkIn](https://github.com/incrisvel/parkin)
 - Colaborador do projeto ISNA
 - Frameworks: Django | Flask
