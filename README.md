@@ -12,15 +12,12 @@
     
 
 
-<div style="display: inline_block"><br>
   [![Java][Java.com]][Java-url]
   [![Python][Python.com]][Python-url]
   [![HTML5][HTML5.com]][HTML5-url]
   [![CSS3][CSS3.com]][CSS3-url]
   [![Javascript][Javascript.com]][Javascript-url]
   [![SQLite][SQLite.com]][SQLite-url]
-      
-</div>
 
 ##
 
@@ -32,11 +29,10 @@
 
 
 
-
+[Java.com]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[Java-url]: https://www.java.com/
 [HTML5.com]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://html.com
-[Java.com]: [https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[Java-url]: https://java.com
 [CSS3.com]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS3-url]: https://www.w3.org/TR/CSS/#css
 [Javascript.com]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
