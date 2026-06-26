@@ -14,7 +14,7 @@
 
 
 <div style="display: inline_block"><br>
-  
+  [![Java][Java.com]][Java-url]
   [![Python][Python.com]][Python-url]
   [![HTML5][HTML5.com]][HTML5-url]
   [![CSS3][CSS3.com]][CSS3-url]
